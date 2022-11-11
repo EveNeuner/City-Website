@@ -34,7 +34,7 @@ nav {
     list-style: none;
     width: 50%;
     margin: auto;
-    padding: 0;
+    padding-top: 17vh;
 }
 
 nav>li {
@@ -43,6 +43,8 @@ nav>li {
     display: inline-block;
     border-style:outset;
     border-color: rgb(79, 112, 112);
+    font-size: larger;
+    background-color: lightslategrey;
 }
 
 nav>li>a:hover {
@@ -52,4 +54,14 @@ nav>li>a:hover {
 
 body {
     background-color: rgb(127, 143, 143);
+}
+
+.bar{
+    background-image: url(Images/books.jfif);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 25vh;
+
+    margin: 0;
+    border-radius: 10px;
 }
