@@ -65,3 +65,33 @@ body {
     margin: 0;
     border-radius: 10px;
 }
+
+.bar2{
+    background-image: url(Images/books.jfif);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 25vh;
+
+    margin: 0;
+    border-radius: 10px;
+}
+
+.bar3{
+    background-image: url(Images/books.jfif);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 25vh;
+
+    margin: 0;
+    border-radius: 10px;
+}
+
+.bar4{
+    background-image: url(Images/books.jfif);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 25vh;
+
+    margin: 0;
+    border-radius: 10px;
+}
