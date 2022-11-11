@@ -1,0 +1,55 @@
+h1 {
+text-align: center;
+color: midnightblue;
+}
+
+h2 {
+    text-align: center;
+    color: midnightblue;
+}
+
+h3 {
+    text-align: center;
+    color: midnightblue;
+}
+
+h4 {
+    text-align: center;
+    color: midnightblue;
+}
+
+p {
+    text-align: center;
+    color: midnightblue;
+}
+
+figcaption {
+    text-align: center;
+    color: midnightblue;
+}
+
+nav {
+    text-align: center;
+    color: midnightblue;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    padding: 0;
+}
+
+nav>li {
+    text-align: center;
+    color: midnightblue;
+    display: inline-block;
+    border-style:outset;
+    border-color: rgb(79, 112, 112);
+}
+
+nav>li>a:hover {
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+body {
+    background-color: rgb(127, 143, 143);
+}
