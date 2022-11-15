@@ -11,6 +11,7 @@ h2 {
 h3 {
     text-align: center;
     color: midnightblue;
+    background-color: rgb(151, 179, 196);
 }
 
 h4 {
@@ -25,7 +26,7 @@ p {
 
 figcaption {
     text-align: center;
-    color: midnightblue;
+    color: rgb(167, 202, 224);
 }
 
 nav {
@@ -41,23 +42,23 @@ nav>li {
     text-align: center;
     color: midnightblue;
     display: inline-block;
-    border-style:outset;
+    border-style:ridge;
     border-color: rgb(79, 112, 112);
     font-size: larger;
-    background-color: lightslategrey;
+    background-color: rgb(151, 179, 196);
 }
 
 nav>li>a:hover {
     text-align: center;
-    background-color: darkslategrey;
+    background-color: lightslategrey;
 }
 
 body {
-    background-color: rgb(127, 143, 143);
+    background-color: lightslategrey;
 }
 
 .bar{
-    background-image: url(Images/books.jfif);
+    background-image: url(Images/test\ bar.jpg);
     background-repeat: repeat;
     background-size: cover;
     height: 25vh;
@@ -67,7 +68,7 @@ body {
 }
 
 .bar2{
-    background-image: url(Images/books.jfif);
+    background-image: url(Images/graveyard.jpg);
     background-repeat: repeat;
     background-size: cover;
     height: 25vh;
@@ -77,7 +78,7 @@ body {
 }
 
 .bar3{
-    background-image: url(Images/books.jfif);
+    background-image: url(Images/bar\ 2.jpg);
     background-repeat: repeat;
     background-size: cover;
     height: 25vh;
@@ -87,7 +88,7 @@ body {
 }
 
 .bar4{
-    background-image: url(Images/books.jfif);
+    background-image: url(Images/bar\ 4.jpg);
     background-repeat: repeat;
     background-size: cover;
     height: 25vh;
@@ -96,14 +97,14 @@ body {
     border-radius: 10px;
 }
 
-img {
+figure {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 img {
-    width: 20vw;
-    height: 20vh;
+    width: 40%;
+    height: 50%;
 }
 
